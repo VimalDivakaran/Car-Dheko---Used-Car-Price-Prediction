@@ -3,7 +3,6 @@ Description:
 The "Car Price Prediction Application" addresses the challenge of providing reliable pricing estimates for used cars. As data can be unstructured and inconsistent, the project focuses on cleaning, encoding, and scaling to ensure data integrity. The final model enables precise pricing predictions to support both car buyers and sellers in the used car market.
 
 Key Highlights:
-
 Data Cleaning and Feature Engineering: Handles unstructured data, extracts meaningful features, and ensures consistency across the dataset.
 Optimal Model Selection: Tested multiple models, with Random Forest achieving the best performance:
 R² Score: 0.695, explaining over 70% of variance in car prices.
